@@ -1,0 +1,17 @@
+body{
+    background-image: url('sus.png');
+    color: rgb(33, 192, 184);
+    font-family: cursive;
+    font-size: large;
+    font-style: oblique;
+}
+
+.blok{
+    float: left;
+    width: 24%;
+    height: 500px;
+    background-color: darkmagenta;
+    margin: 3%;
+    padding: 10px;
+    text-align: center;
+}
